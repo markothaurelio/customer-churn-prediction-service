@@ -55,16 +55,20 @@ Lowering threshold to 0.3 significantly improved churn detection.
 
 ## Project Structure
 
+```
 customer-churn-prediction-service/
 ├── app/
 ├── src/
 ├── artifacts/
-├── data/raw/
+├── data/
+│   └── raw/
 ├── notebooks/
 ├── logs/
 ├── Dockerfile
 ├── requirements.txt
 └── README.md
+```
+
 
 ---
 
