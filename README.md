@@ -1,6 +1,6 @@
 # Customer Churn Prediction Service
 
-End-to-end machine learning project that predicts customer churn using XGBoost and serves predictions via a FastAPI API.
+Simple End-to-end machine learning project that predicts customer churn using XGBoost and serves predictions via a FastAPI API.
 
 ## Overview
 
